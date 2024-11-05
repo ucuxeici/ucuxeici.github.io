@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucuxeici.github.io/UGY/sitemap_index.txt
+Sitemap: https://ucuxeici.github.io/eYF/sitemap_index.txt
+Sitemap: https://ucuxeici.github.io/qZG/sitemap_index.txt
+Sitemap: https://ucuxeici.github.io/tfN/sitemap_index.txt
